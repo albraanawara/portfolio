@@ -5,7 +5,7 @@ This is a simple and responsive personal CV website built using HTML & CSS and j
 
 ## 🌐 Live Demo
 
-[View Website]()
+[View Website]( https://albraanawara.github.io/portfolio/)
 
 
 ## 🚀 Technologies Used
