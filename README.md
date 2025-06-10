@@ -1,4 +1,5 @@
 # portfolio
+
 ## CV Website – Albraa Nawara
 
 This is a simple and responsive personal CV website built using HTML & CSS and js. It displays my basic information, profile photo, and contact details in a clean and elegant layout.
